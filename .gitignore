@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+out/
+*.mp4
+*.mov
+*.avi
+*.mkv
+.ipynb_checkpoints/
+.vscode/
+.idea/

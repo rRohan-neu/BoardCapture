@@ -1,0 +1,10 @@
+name: boardcapture
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - tesseract      # OCR engine, only needed for --ocr / --notes
+  - pip
+  - pip:
+      - opencv-python
